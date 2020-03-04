@@ -1,0 +1,37 @@
+{
+	"NAME":"Bulb",
+	"URL":"https://raw.githubusercontent.com/Jiraiyah/Module-Light-Bulb/Bulb.version",
+	"DOWNLOAD":"https://github.com/Jiraiyah/Module-Light-Bulb/releases/latest",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/Jiraiyah/Bulb/master/Changelog.cfg",
+    "GITHUB":
+    { 
+        "USERNAME":"Jiraiyah",
+        "REPOSITORY":"Module-Light-Bulb",
+        "ALLOW_PRE_RELEASE":false
+    },
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":8,
+		"PATCH":1,
+		"BUILD":1
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":5,
+		"PATCH":1
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR":1,
+		"MINOR":8,
+		"PATCH":1
+	},
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR":1,
+		"MINOR":9,
+		"PATCH":9999
+	}
+}
